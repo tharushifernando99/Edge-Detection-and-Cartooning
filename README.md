@@ -1,4 +1,4 @@
-***Edge-Detection-and-Cartooning***
+# Edge-Detection-and-Cartooning
 
 This repository contains Python implementations for two image processing tasks: Edge Detection and Cartooning of an Image using OpenCV and NumPy. The project is designed for group collaboration, with detailed documentation of workflows, Python code, and output images.
 
